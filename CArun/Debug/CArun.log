@@ -1,0 +1,4 @@
+﻿  CArun.cpp
+D:\!Programmirung\Amata\CArun\CArun\CArun.cpp(8,29): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\!Programmirung\Amata\CArun\CArun\CArun.cpp(9,30): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  CArun.vcxproj -> D:\!Programmirung\Amata\CArun\Debug\CArun.exe
